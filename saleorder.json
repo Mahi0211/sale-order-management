@@ -1,0 +1,43 @@
+{
+  "orders": [
+    {
+      "customer_id": 11908,
+      "items": [
+        {
+          "sku_id": 220,
+          "price": 12,
+          "quantity": 12
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice- 1212121",
+      "invoice_date": "7/5/2024"
+    },
+    {
+      "customer_id": 11909,
+      "items": [
+        {
+          "sku_id": 220,
+          "price": 12,
+          "quantity": 12
+        }
+      ],
+      "paid": true,
+      "invoice_no": "Invoice- 1212121",
+      "invoice_date": "7/5/2024"
+    },
+    {
+      "customer_id": 11910,
+      "items": [
+        {
+          "sku_id": 230,
+          "price": 44,
+          "quantity": 8
+        }
+      ],
+      "paid": false,
+      "invoice_no": "Invoice- 1212121",
+      "invoice_date": "7/5/2024"
+    }
+  ]
+}

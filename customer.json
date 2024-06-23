@@ -1,0 +1,49 @@
+{
+  "profiles": [
+    {
+      "id": 9,
+      "customer": 11908,
+      "customer_profile": {
+        "id": 11908,
+        "name": "Ram",
+        "color": [182, 73, 99],
+        "email": "jesus_christ@church.com",
+        "pincode": "Mumbai",
+        "location_name": "Mumbai, Maharashtra, India",
+        "type": "C",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 10,
+      "customer": 11909,
+      "customer_profile": {
+        "id": 11909,
+        "name": "Sita",
+        "color": [123, 104, 238],
+        "email": "sita_ram@ayodhya.com",
+        "pincode": "Ayodhya",
+        "location_name": "Ayodhya, Uttar Pradesh, India",
+        "type": "B",
+        "profile_pic": null,
+        "gst": ""
+      }
+    },
+    {
+      "id": 11,
+      "customer": 11910,
+      "customer_profile": {
+        "id": 11910,
+        "name": "Krishna",
+        "color": [0, 128, 128],
+        "email": "krishna_govind@vrindavan.com",
+        "pincode": "Vrindavan",
+        "location_name": "Vrindavan, Uttar Pradesh, India",
+        "type": "A",
+        "profile_pic": null,
+        "gst": ""
+      }
+    }
+  ]
+}
